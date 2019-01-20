@@ -1,8 +1,10 @@
 ---
-category: Stuff
+category: 'Request'
 path: '/stuff/:id'
-title: 'Delete a thing'
-type: 'DELETE'
+title: 'Request update'
+type: 'GET'
+
+name: "ibiscontrol-1"
 
 layout: nil
 ---

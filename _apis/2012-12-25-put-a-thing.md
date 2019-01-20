@@ -1,8 +1,10 @@
 ---
-category: Stuff
+category: Trigger
 path: '/stuff/:id'
-title: 'Update a thing'
+title: 'Open Door #1'
 type: 'PUT'
+
+name: 'bus_door0_toggle'
 
 layout: nil
 ---
